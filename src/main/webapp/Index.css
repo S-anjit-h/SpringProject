@@ -1,0 +1,33 @@
+@charset "ISO-8859-1";
+
+.odd{
+	color:white;
+	font-family:fantasy;
+	background:linear-gradient(to right,blue,white);
+	background-repeat: no-repeat;
+}
+h1{
+	color:black;
+	font-weight:900;
+	background:linear-gradient(to right,white,blue);
+	background-repeat: no-repeat;
+}
+.fontt{
+	color:white;
+	font-family:"Press Start 2P",fantasy;
+	text-decoration: yellow dotted underline;
+	font-size: 15px;
+	border-style: groove;
+	border-color: yellow;
+	border-radius: 10px;
+	padding:5px;
+}
+body{
+	
+	background-image: url("https://media.istockphoto.com/id/1148091792/photo/technology-abstract.jpg?s=612x612&w=0&k=20&c=eYFiD5H90e_MJQB9brWFzSqBVd-oNYx0zqYTIuwwS_Q=");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	
+}
